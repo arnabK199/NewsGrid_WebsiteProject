@@ -138,7 +138,7 @@ p{
 }
 
 .list li{
-    padding: 0.5rem 0;
+    padding: 0.5rem 0rem;
     border-bottom: #555 dotted 1px;
     width: 90%;
 }
@@ -280,6 +280,7 @@ p{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 1.5rem;
+    
 }
 
 #main-footer .footer-container div:last-child{
@@ -288,6 +289,10 @@ p{
     text-align: center;
     /* padding: 0.5rem; */
     font-size: 0.7rem;
+}
+
+#main-footer .footer-container:nth-child(3){
+    align-self: ;
 }
 
 #main-footer .footer-container input[type="email"]{

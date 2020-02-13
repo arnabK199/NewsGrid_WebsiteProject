@@ -67,5 +67,11 @@
         padding:0.5rem;
     }
 
-    
+    .list li{
+        padding-left: 3rem;
+    }
+
+    #main-footer div h2[class="links"]{
+        padding-left: 0.5rem;
+    }
 }
