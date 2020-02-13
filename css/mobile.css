@@ -44,6 +44,11 @@
         text-align: center;
     }
 
+    #main-footer .footer-container{
+        padding: 1rem 0rem;
+        grid-gap: 0.9rem;
+    }
+
     #main-footer .footer-container div:last-child{
         grid-column: 1;
     }
