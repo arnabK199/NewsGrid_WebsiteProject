@@ -67,11 +67,16 @@
         padding:0.5rem;
     }
 
-    #main-footer .list li{
-        padding-left: 3rem;
+    .list li{
+        width: 100%;
     }
 
-    #main-footer div h2[class="links"]{
+    /* #main-footer .list li{
+        padding-left: 3rem;
+        margin-right: 0px;
+    } */
+
+    /* #main-footer div h2[class="links"]{
         padding-left: 0.5rem;
-    }
+    } */
 }
