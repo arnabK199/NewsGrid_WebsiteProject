@@ -60,8 +60,12 @@
         text-align: center;
     }
 
+    #home-articles .container h2{
+        text-align: center;
+    }
+    
     #home-articles{
-        padding: 1rem;
+        padding: 0.5rem;
     }
     .container{
         padding:0.5rem;
